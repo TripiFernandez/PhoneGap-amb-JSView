@@ -1,5 +1,9 @@
 # La meva primera APP
 
+Angel Gonzalez
+
+Jaskirat Virk
+
 
 29/11/2015
 
